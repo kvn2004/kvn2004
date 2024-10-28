@@ -1,5 +1,4 @@
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)](https://rishavchanda.io)
-
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)]("") 
 <h1 align="center">Hi 👋, I'm Vihanga Nimsara</h1>
 <h3 align="center">Computer Science Undergraduate| YOUTUBBER |</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif">
