@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vihanga-nimsara-6a8181317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vihanga-nimsara-6a8181317/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24995284/vihanga-nimsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24995284/vihanga-nimsara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@techdotsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techdotsl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vihanga-nimsara-6a8181317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vihanga-nimsara-6a8181317/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24995284/vihanga-nimsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24995284/vihanga-nimsara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@techdotsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techdotsl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
