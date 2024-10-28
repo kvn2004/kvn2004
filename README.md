@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif)](https://rishavchanda.io)
+[![MasterHead]([https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vihanga Nimsara</h1>
 <h3 align="center">Computer Science Undergraduate| YOUTUBBER |</h3>
